@@ -119,8 +119,8 @@ describe("UPDATE / Edit Kategori kasirAja", () => {
     })
 })
 
-describe("UPDATE / Edit Kategori kasirAja", () => {
-    it("Edit kategori with valid input", () => {
+describe("DELETE Kategori kasirAja", () => {
+    it("Delete Kategori", () => {
         cy.visit('/')
         
         //assert already login & on dashboard menu
