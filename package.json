@@ -1,0 +1,15 @@
+{
+  "name": "sanber45cypress-rifqiap",
+  "version": "1.0.0",
+  "description": "Tugas Pekanan 5 Cypress Sanber45 QA Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run --browser chrome",
+    "testOpen": "npx cypress open"
+  },
+  "author": "Rifqi Ardian Pratama",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.16.0"
+  }
+}
